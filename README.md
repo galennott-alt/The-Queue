@@ -1,2 +1,2 @@
 # The-Queue
-"Real-time online singing competition performance platform featuring live stream performances, voting, and payouts
+"Online singing platform for karaoke enthusiasts featuring livestream contests, voting, and prizes."
